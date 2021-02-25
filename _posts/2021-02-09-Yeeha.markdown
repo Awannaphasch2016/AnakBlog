@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Yeeha"
-date:   2021-02-09 17:13:57 -0500
-categories: jekyll update
----
-
