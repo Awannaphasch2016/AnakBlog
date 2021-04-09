@@ -2,29 +2,37 @@
 layout: post
 title: Examples\Libraries\Python\datetime|numpy|pandas|seaborn\convert datetime between numpy and pandas
 date:  2021-04-03 09:44:22
-categories: examples/ libraries/ datetime/  python/ numpy/ pandas/ seaborn/ plot/
+categories: examples/ libraries/ datetime/  python/ numpy/ pandas/ seaborn/ visualization/
 ---
+
 # TODO
 * use data_path to access data -> upload data to S3, and download data to local computer.
 * simply file graph. 
     1. (optional) create new blog to folow on plotting correlation across multiple nodes per time step for 
         multiple time step
     2. simply graph to simple graph such as line, box plot.
+
 # Goal
 * plot graph where x-axis is date. 
+
 ## expected output
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAdaptiveGraphStucture%2FFXhHw7bNd8.png?alt=media&token=c93fca9a-9f84-4e3a-ba07-980a698307b6)
+
 # Note
 * numpy with more than 1 types will be automatically convert types of all values to 'object' type
     * therefore, you must remember to convert type of row/colum of numpy array after convering from numpy to 
         pandas.
+
 # What you will learn
 * how to use plot graph with datetime as x-axis?
 * how to convert numpy datetime to datetime (datetime library)?
 * how to convert datetime to string datetime?
 * how to convert string datetime to pandas datetime?
+
 # Terminology
+
 # Code 
+
 ## Setup
 * note
     * copy and paste this section for initial setup before the main code.
