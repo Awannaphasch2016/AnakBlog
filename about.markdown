@@ -80,6 +80,10 @@ An example is to automate such that I am more productive, so I have more time to
         
 * [Blog](https://awannaphasch2016.github.io/AnakBlog/about/)
     * one of the output from my [[learning pipeline]]
+    * blog contains articles
+* [Experiment's Log](https://wandb.ai/anak/projects)
+    * one of the output from my [[learning pipline]]
+    * experiment's log contain deep leanring experiments I have done and can be shared.
 
 # Where to find me.
 * My Github: [Github](https://github.com/Awannaphasch2016)
@@ -87,4 +91,5 @@ An example is to automate such that I am more productive, so I have more time to
 * facebook: [Facebook](https://www.facebook.com/anak.wannapaschaiyong)
 * Twitch: [[In Progress]]
 * Youtube: [[In Progress]]
+* Experiment's log: [Wandb](https://wandb.ai/anak/projects)
 
