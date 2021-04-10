@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Examples\Demo\Terraform\use automation tools to create streaming platform
+title: "Examples\\Demo\\Terraform\\use automation tools to create streaming platform"
 date:  2021-04-03 09:44:22
 categories: example/ automation/ terraform/ cloud/ aws/ in_progress/
 ---

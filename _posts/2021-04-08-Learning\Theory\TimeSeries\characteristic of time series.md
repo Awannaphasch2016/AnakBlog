@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning\Theory\TimeSeries\characteristic of time series
+title: "Learning\\Theory\\TimeSeries\\characteristic of time series"
 date: 2021-04-08 21:19:43
 
 categories: learning/ time-series/ theory/ property/

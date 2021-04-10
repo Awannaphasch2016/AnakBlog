@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Example\Libraries\Pandas\Sliding multilevel index with list as value
+title: "Example\\Libraries\\Pandas\\Sliding multilevel index with list as value"
 date:  2021-03-30 17:41:10 
 categories: examples/ libraries/ pandas/ python/
 ---
 
 # Goal
-* Given the dataset, you must filter multilevel index namely 'state' and 'date', whose cells list value have length equal to 7.
+* Given the dataset, you must filter multilevel index namely 'state' and 'date', whose cells list value have 
+    length equal to 7.
 
 # What you will learn
 1. understand how to filter with pandas that have list as cell value.
@@ -23,8 +24,7 @@ categories: examples/ libraries/ pandas/ python/
 
 # Code
 
-{% highlight python %}
-
+```
 import pandas as pd
 import pathlib
 
@@ -47,5 +47,4 @@ tmp = df_by_date.groupby(['state', pd.Grouper(key="date", freq="1W")])["cases"].
 tmp1 = pd.Series.to_frame(tmp,name='node')
 tmp1[tmp1['node'].map(len) == 7 ]
 weekly_inter_node = np.array([i for i in tmp2.iloc[tmp2.index.get_level_values('date') == d]['node'].sort_index().values])
-
-{% endhighlight %}
+```

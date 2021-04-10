@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Examples\Libraries\Python\datetime|numpy|pandas|seaborn\convert datetime between numpy and pandas
+title: "Examples\\Libraries\\Python\\datetime|numpy|pandas|seaborn\\convert datetime between numpy and pandas"
 date:  2021-04-03 09:44:22
 categories: examples/ libraries/ datetime/  python/ numpy/ pandas/ seaborn/ visualization/
 ---

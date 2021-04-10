@@ -1,10 +1,19 @@
 ---
 layout: post
-title: Survey\TimeSeries\Classification\list of time series classification algorithms
+title: "Survey\\TimeSeries\\Classification\\list of time series classification algorithms"
 date: 2021-04-08 21:28:41
 
 categories: survey/ time-series/ classification/ algorithms/ 
 ---
+
+# Toc
+<!-- vim-markdown-toc Marked -->
+
+* [References](#references)
+* [Terminology](#terminology)
+* [Content](#content)
+
+<!-- vim-markdown-toc -->
 
 # References
 * article 
@@ -42,3 +51,6 @@ categories: survey/ time-series/ classification/ algorithms/
     * Dictionary-based (BOSS, cBOSS)
     * Frequency-based (RISE — like TimeSeriesForest but with other features)
     * Shapelet-based (Shapelet Transform Classifier)
+        * note
+            * subsequences or small sub-shapes of times seris that are representative of a class
+            * they can be used to detect "phase-independent localised similarity between series within the same class

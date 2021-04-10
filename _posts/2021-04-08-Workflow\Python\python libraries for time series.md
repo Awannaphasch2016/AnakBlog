@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workflow\Python\Python environment for Time Series Forecasting
+title: "Workflow\\Python\\Python environment for Time Series Forecasting"
 date: 2021-04-08 20:05:01
 categories: workflow/ python/ tools/ time-series/
 ---
@@ -13,6 +13,11 @@ categories: workflow/ python/ tools/ time-series/
 * this doesn't include my inside-terminal/ tools
 
 # Content
+* dataset
+    * time series dataset
+        * https://www.sktime.org/en/latest/related_software.html
+* collection of time series models 
+    * https://www.sktime.org/en/latest/related_software.html
 * list of python libraries for time series analysis
     * core
         * Pandas 
@@ -31,7 +36,12 @@ categories: workflow/ python/ tools/ time-series/
     * options 
         * machine larning 
             * sktime 
+                * more star and more active than tslearn.
             * tslearn
+                * only time series machine learning library that provide time series clustering.
+            * Darts  
+                * newest one, seem to be the most promising.
+                * its goal is to make the library to unify time-series machin learning.
         * deep learning 
             * sktime-dl 
                 * [2021-04-08 21:35:16] it is not currently maintained

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning\TimeSeries\Implementation\Dynamic Time Warping Distance (DTW).md
+title: "Learning\\TimeSeries\\Implementation\\Dynamic Time Warping Distance (DTW).md"
 date: 2021-04-08 20:26:07
 
 categories: learning/ time-series/ implementation/ algorithm/ DTW/
@@ -59,3 +59,4 @@ print(DTWDistance(ts1,ts2))
 print(DTWDistance(ts1,ts3))
 
 ```
+

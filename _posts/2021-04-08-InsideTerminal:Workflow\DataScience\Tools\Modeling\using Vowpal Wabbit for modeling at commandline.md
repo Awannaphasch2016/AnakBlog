@@ -1,6 +1,6 @@
 ---
 layout: post
-title: InsideTerminal:Workflow\DataScience\Tools\Modeling\using Vowpal Wabbit for modeling at commandline.md
+title: "InsideTerminal:Workflow\\DataScience\\Tools\\Modeling\\using Vowpal Wabbit for modeling at commandline.md"
 date: 2021-04-08 10:02:26
 categories: inside-terminal/ workflow/ data-science/ tools/  modeling/ vowpa-wabbit/
 ---

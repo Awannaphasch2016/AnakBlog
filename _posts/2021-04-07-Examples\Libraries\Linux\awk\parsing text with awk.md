@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Examples\Libraries\Linux\awk\parsing text with awk
+title: "Examples\\Libraries\\Linux\\awk\\parsing text with awk"
 date: 2021-04-07 10:18:44
 categories: examples/ libraries/ linux/  awk/ nlp/ parsing/ usecase/
 ---

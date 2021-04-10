@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workflow\DataScience\Tools\Visualization\data science tools for visualization at command line
+title: "Workflow\\DataScience\\Tools\\Visualization\\data science tools for visualization at command line"
 date: 2021-04-07 12:26:27
 categories: workflow/ data-science/ tools/  visualization/ inside-terminal/
 ---

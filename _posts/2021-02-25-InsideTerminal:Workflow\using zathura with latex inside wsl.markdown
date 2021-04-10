@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workflow/using zathura with latex in wsl"
+title:  "Workflow\\Tools\\Latex\\using zathura with latex in wsl"
 date:   2021-02-25 17:13:57 -0500
 categories: workflow/ zathura/ latex/ wsl/ inside-terminal/
 ---

@@ -1,11 +1,11 @@
-
 ---
 layout: post
-title: Notes\List of Top Data Science competitions.md
+title: "Notes\\List of Top Data Science competitions"
 date: 2021-04-08 18:01:24
 
 categories: notes/ data-science/ competitions/ surveys/
 ---
+
 # References 
 * article
     * Top Competitive Data Science Platforms other than Kaggle
