@@ -15,6 +15,10 @@ The Purposed on the this blog is to consolidate [[concept]] from [[page]] in my 
 [[notes]] from bullet point  to an eassy format.
 In the otherwords, I narrated knowledge from my second brain storage into a collection of blog.
 
+* note
+    * all articles will be later moved into this blog. I am in the processed of migrating my
+        article from medium to this blog
+
 # How to read this blog?
 I follow the learning approach that I named [[categorize-then-synthesize]].
 "categorized-then-synthesize" is 2 steps learning technique where the first step of learning is to focusing 
@@ -62,11 +66,20 @@ An example is to automate such that I am more productive, so I have more time to
 5. When collaborate with a team, my work efficiency should be independent of location and time of day.
 6. I want to automate everything that satisfy my life principle, learn more, experience more, richer.
 
-# Other LifeLongProject other than [[Garun]] and [[Blog]]
+# My life long projects
 
 * My transparent [TODO MANAGER](https://github.com/Awannaphasch2016/TODO-Manager). 
     * In here, anyone can see what I have been doing all my life upto the current mins that I update. 
     * anyone can see things I have plan to do for the next 1 mins/days/weeks/months/years
+* [Garun](https://roamresearch.com/#/app/AdaptiveGraphStucture/page/yV5IQUZ8l )
+    * shared curated lifelong knowledge base
+    * if you are curious, send me emails and I can allow you to see content in my shared knowledge base.
+        * there are 5+ people who are managing this knowledge base
+    * if you want to get full access to this knowledge base, read more about it
+        [here](https://awannaphasch2016.medium.com/garun-shared-curated-knowledge-base-an-attempt-to-create-active-online-community-to-allow-for-b883c4d7a6b4)
+        
+* [Blog](https://awannaphasch2016.github.io/AnakBlog/about/)
+    * one of the output from my [[learning pipeline]]
 
 # Where to find me.
 * My Github: [Github](https://github.com/Awannaphasch2016)
