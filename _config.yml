@@ -24,10 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Purposed on the this blog is to consolidate [[concept]] from [[page]] in my curated
   [[notes]] from bullet point  to an eassy format.
   In the otherwords, I narrated knowledge from my second brain storage into a collection of blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "awannaphasch2016.github.io" # the subpath of your site, e.g. /blog
+url: "AnakBlog" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Anak Wannaphaschaiyong
+github_username:  Awannaphasch2016
 
 # Build settings
 theme: minima
