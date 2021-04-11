@@ -40,11 +40,26 @@ categories: best-practices/ workflows/ data-sciences/ pipelines/ examples/ in-pr
     * for deployment
 
 # Content
-* Best practices to organize/manage/track/deploy a machine learning project.
+
+## Best practices to organize/manage/track/deploy a machine learning project.
     * note 
         * step by step below is for running 1 experiments
         * for running multiple experiments using variuos combination of parameters, yaml file should have
             dedicated key-value for hyper parameter tuning that contains list of parameters to be iterate over.
+
+### Planning Stage 
+* using grapviz to plan model pipeline tree you are attempting to build
+    * Types for node in a tree are the following
+        * data output node 
+        * data input node 
+        * featurize node 
+        * preparation node
+        * data exploration node (leaf) 
+            * this node indicate data exploration after data has been processed to some degree.
+        * modeling node
+        * log node
+
+### Implementation Stage 
     1. set up project with pip3 or conda (using pip3 or conda with Docker if you need it to be more portible)
     2. load data 
     3. set up git
