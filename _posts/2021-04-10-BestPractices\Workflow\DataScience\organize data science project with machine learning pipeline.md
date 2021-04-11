@@ -49,6 +49,16 @@ categories: best-practices/ workflows/ data-sciences/ pipelines/ examples/ in-pr
     2. load data 
     3. set up git
     4. set up dvc 
+        * use dvc for the following reason
+            * always use dvc to do data version control
+            * use `dvc run` and commit to git with with comment that describe what is this experiment
+                snapshot is about. (why is it so important that you want to take a snap shot of it)
+                * so far, I don't see the need of creating new branch because all attemp were 'experiment'
+                    there is no 'main experiment' (main level) and 'side experiment.'(dev branch) All of them
+                    are experiments, we just have to focus on emphasizing experiments that are important.
+                * the only reason to have a new branch is when there is a new experiment direction 
+                    * such as 
+                        * trying model on the different 'dataset'.
     5. set up configuration file with yaml. 
         * this decouple paramters from code.
         * benefit 
