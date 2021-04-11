@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "BestPractices\\Workflow\\DataScience\\organize data science project with machine learning pipeline"
-date: 2021-04-10 19:16:05
+title: "Examples\Libraries\DVC"
+data: 2021-04-11 01:33:18
 
-categories: best-practices/ workflows/ data-sciences/ pipelines/ examples/
+categories: examples/ libraries/ dvc/
 ---
 # References
 * Youtube
