@@ -75,4 +75,31 @@ categories: best-practices/ workflows/ data-sciences/ organizations/
                 * contain files that will be removed later on. 
         * Utils/
 
+# Content
+
+## How to use these folders?
+    * Always initilize the project with core folders. As the experiments grows overtime, you want to 
+        add new folder only if you need it.
+    * when you start working on coding, you have 2 options
+        1. no clear goal on what you want to do 
+            * you should create a scratch file in TMP/ then refactor code into
+                appropriate folder as your code evolve.
+        2. have clear goal
+            * create Experiments folders and initialized expriments folder with just scratch file.
+    * core folders for the whole repo are the following.
+        * note 
+            * you might notice that none of the model pipeline components are involved
+                * This is because you should start of the project in TMP folder as mentioned eariler
+                    this is to ovide 'Premature organization.' 
+                    Instead, you want to refactor code as you code (DRY Principle)
+                    * Premature organization is where you have to refactor code inside 
+                    files match to its current folder. 
+        * Data/
+        * Docs/
+        * Featurization/
+        * Data Preparation/
+        * Models/
+        * Utils/
+
+
 
