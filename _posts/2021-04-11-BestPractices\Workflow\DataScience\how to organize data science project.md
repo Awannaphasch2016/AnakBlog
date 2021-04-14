@@ -64,6 +64,12 @@ categories: best-practices/ workflows/ data-sciences/ organizations/
                     * ParamTuning/
                     * ModelTuning/
         * Featurization/
+        * ExperimentsLogs/
+            * requirements
+                * each file are dates.
+                * each files can have more than 1 logs 
+                * logs can be taggs.
+                * the folder contains make down files.
         * Data Preparation/
         * Models/
         * Scripts/
